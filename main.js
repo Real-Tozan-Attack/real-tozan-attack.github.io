@@ -204,7 +204,6 @@ map.addControl(L.control.basemaps({
     tileZ: 5   // tile zoom level
 }));
 
-
 var osm2 = new L.TileLayer(
   'https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png',
   {
