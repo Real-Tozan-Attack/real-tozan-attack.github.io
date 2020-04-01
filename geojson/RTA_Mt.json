@@ -19440,6 +19440,36 @@
           33.539718
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "山名": "飯神山",
+        "読み": "いかみやま",
+        "標高": "237(m)",
+        "別称": "",
+        "所在地": "香川県小豆郡小豆島町",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/8995/89955042.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%95%E3%81%A8%E3%81%86\" target=\"_blank\" class=\"runner_link\">さとう</a> ×1</p>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_MtSeachKey": "飯神山いかみやま  237m | 香川県小豆郡小豆島町",
+        "_RunnerSeachKey": "飯神山: さとう"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.259442,
+          34.464802
+        ]
+      }
     }
   ]
 }
