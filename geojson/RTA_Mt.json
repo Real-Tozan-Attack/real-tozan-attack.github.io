@@ -609,7 +609,7 @@
         "標高": "931(m)",
         "別称": "東六甲山",
         "所在地": "兵庫県神戸市北区 - 東灘区",
-        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2476/24766077.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%82%E3%81%9F%E3%82%8A\" target=\"_blank\" class=\"runner_link\">あたり</a> ×1<br>02. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/1299/12995862.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%93%E3%81%91%E3%81%97\" target=\"_blank\" class=\"runner_link\">こけし</a> ×1<br>03. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">サムイ</a> ×2<br>04. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2958/29589280.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E8%8C%A8%E6%9C%A8%E3%82%A2%E3%82%AB\" target=\"_blank\" class=\"runner_link\">茨木アカ</a> ×2<br>05. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2532/25329335.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E5%9C%92%E3%82%B8%E3%82%85%E3%81%A4\" target=\"_blank\" class=\"runner_link\">園ジゅつ</a> ×1</p>",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2476/24766077.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%82%E3%81%9F%E3%82%8A\" target=\"_blank\" class=\"runner_link\">あたり</a> ×1<br>02. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/1299/12995862.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%93%E3%81%91%E3%81%97\" target=\"_blank\" class=\"runner_link\">こけし</a> ×1<br>03. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">さか</a> ×2<br>04. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2958/29589280.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E8%8C%A8%E6%9C%A8%E3%82%A2%E3%82%AB\" target=\"_blank\" class=\"runner_link\">茨木アカ</a> ×2<br>05. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2532/25329335.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E5%9C%92%E3%82%B8%E3%82%85%E3%81%A4\" target=\"_blank\" class=\"runner_link\">園ジゅつ</a> ×1</p>",
         "_markerType": "Icon",
         "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
         "_iconSize": [
@@ -621,7 +621,7 @@
           10
         ],
         "_MtSeachKey": "六甲山ろっこうさん 東六甲山 931m | 兵庫県神戸市北区 - 東灘区",
-        "_RunnerSeachKey": "六甲山: あたり, こけし, サムイ, 茨木アカ, 園ジゅつ"
+        "_RunnerSeachKey": "六甲山: あたり, こけし, さか, 茨木アカ, 園ジゅつ"
       },
       "geometry": {
         "type": "Point",
@@ -2409,7 +2409,7 @@
         "標高": "1272(m)",
         "別称": "-",
         "所在地": "神奈川県泰野市 - 足柄上郡松田町・山北町",
-        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2476/24766077.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%82%E3%81%9F%E3%82%8A\" target=\"_blank\" class=\"runner_link\">あたり</a> ×1<br>02. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/411/4114677.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?AMMO\" target=\"_blank\" class=\"runner_link\">AMMO</a> ×1<br>03. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/1904/19040455.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%82%E3%81%8D%E3%81%8B%E3%81%88%E3%81%A7\" target=\"_blank\" class=\"runner_link\">あきかえで</a> ×1<br>04. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/8825/88257976.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E8%95%97%E3%82%A2%E3%83%A9%E3%83%96\" target=\"_blank\" class=\"runner_link\">蕗アラブ</a> ×2<br>05. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%98%E3%82%93%E3%81%A8%E3%81%AB%E3%81%A3%E3%81%8F\" target=\"_blank\" class=\"runner_link\">じんとにっく</a> ×1</p>",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2476/24766077.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%82%E3%81%9F%E3%82%8A\" target=\"_blank\" class=\"runner_link\">あたり</a> ×1<br>02. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/411/4114677.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?AMMO\" target=\"_blank\" class=\"runner_link\">AMMO</a> ×1<br>03. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/1904/19040455.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%82%E3%81%8D%E3%81%8B%E3%81%88%E3%81%A7\" target=\"_blank\" class=\"runner_link\">あきかえで</a> ×1<br>04. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/8825/88257976.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E8%95%97%E3%82%A2%E3%83%A9%E3%83%96\" target=\"_blank\" class=\"runner_link\">蕗アラブ</a> ×2<br>05. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2589/25892423.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%98%E3%82%93%E3%81%A8%E3%81%AB%E3%81%A3%E3%81%8F\" target=\"_blank\" class=\"runner_link\">じんとにっく</a> ×1</p>",
         "_markerType": "Icon",
         "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
         "_iconSize": [
@@ -2769,7 +2769,7 @@
         "標高": "1972(m)",
         "別称": "-",
         "所在地": "愛媛県西条市 - 上浮穴郡久万高原町",
-        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%A8%E3%82%8A%E3%81%8B%E3%81%B6%E3%81%A8\" target=\"_blank\" class=\"runner_link\">とりかぶと</a> ×1<br>02. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?sa2ba\" target=\"_blank\" class=\"runner_link\">sa2ba</a> ×2<br>03. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/129/1293534.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%BC%E3%81%A3%E3%81%A1%E7%8E%8B%E8%80%85\" target=\"_blank\" class=\"runner_link\">ぼっち王者</a> ×1<br>04. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E4%B8%91%E5%B9%B4\" target=\"_blank\" class=\"runner_link\">丑年</a> ×1</p>",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%A8%E3%82%8A%E3%81%8B%E3%81%B6%E3%81%A8\" target=\"_blank\" class=\"runner_link\">とりかぶと</a> ×1<br>02. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?sa2ba\" target=\"_blank\" class=\"runner_link\">sa2ba</a> ×2<br>03. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/129/1293534.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%BC%E3%81%A3%E3%81%A1%E7%8E%8B%E8%80%85\" target=\"_blank\" class=\"runner_link\">ぼっち王者</a> ×1<br>04. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2/22486.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E4%B8%91%E5%B9%B4\" target=\"_blank\" class=\"runner_link\">丑年</a> ×1</p>",
         "_markerType": "Icon",
         "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
         "_iconSize": [
@@ -2979,7 +2979,7 @@
         "標高": "478(m)",
         "別称": "-",
         "所在地": "兵庫県宝塚市",
-        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">サムイ</a> ×2</p>",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">さか</a> ×2</p>",
         "_markerType": "Icon",
         "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
         "_iconSize": [
@@ -2991,7 +2991,7 @@
           10
         ],
         "_MtSeachKey": "中山なかやま - 478m | 兵庫県宝塚市",
-        "_RunnerSeachKey": "中山: サムイ"
+        "_RunnerSeachKey": "中山: さか"
       },
       "geometry": {
         "type": "Point",
@@ -3519,7 +3519,7 @@
         "標高": "702(m)",
         "別称": "八州嶺(はっしゅうれい)",
         "所在地": "兵庫県神戸市灘区",
-        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/1299/12995862.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%93%E3%81%91%E3%81%97\" target=\"_blank\" class=\"runner_link\">こけし</a> ×1<br>02. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?pixy\" target=\"_blank\" class=\"runner_link\">pixy</a> ×1<br>03. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">サムイ</a> ×1<br>04. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2958/29589280.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E8%8C%A8%E6%9C%A8%E3%82%A2%E3%82%AB\" target=\"_blank\" class=\"runner_link\">茨木アカ</a> ×1<br>05. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2532/25329335.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E5%9C%92%E3%82%B8%E3%82%85%E3%81%A4\" target=\"_blank\" class=\"runner_link\">園ジゅつ</a> ×2</p>",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/1299/12995862.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%81%93%E3%81%91%E3%81%97\" target=\"_blank\" class=\"runner_link\">こけし</a> ×1<br>02. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?pixy\" target=\"_blank\" class=\"runner_link\">pixy</a> ×1<br>03. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">さか</a> ×1<br>04. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2958/29589280.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E8%8C%A8%E6%9C%A8%E3%82%A2%E3%82%AB\" target=\"_blank\" class=\"runner_link\">茨木アカ</a> ×1<br>05. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/2532/25329335.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E5%9C%92%E3%82%B8%E3%82%85%E3%81%A4\" target=\"_blank\" class=\"runner_link\">園ジゅつ</a> ×2</p>",
         "_markerType": "Icon",
         "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
         "_iconSize": [
@@ -3531,7 +3531,7 @@
           10
         ],
         "_MtSeachKey": "摩耶山まやさん 八州嶺(はっしゅうれい) 702m | 兵庫県神戸市灘区",
-        "_RunnerSeachKey": "摩耶山: こけし, pixy, サムイ, 茨木アカ, 園ジゅつ"
+        "_RunnerSeachKey": "摩耶山: こけし, pixy, さか, 茨木アカ, 園ジゅつ"
       },
       "geometry": {
         "type": "Point",
@@ -3699,7 +3699,7 @@
         "標高": "384(m)",
         "別称": "-",
         "所在地": "兵庫県神戸市北区 - 三田市・宝塚市",
-        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">サムイ</a> ×1</p>",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">さか</a> ×1</p>",
         "_markerType": "Icon",
         "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
         "_iconSize": [
@@ -3711,7 +3711,7 @@
           10
         ],
         "_MtSeachKey": "大岩岳おおいわだけ - 384m | 兵庫県神戸市北区 - 三田市・宝塚市",
-        "_RunnerSeachKey": "大岩岳: サムイ"
+        "_RunnerSeachKey": "大岩岳: さか"
       },
       "geometry": {
         "type": "Point",
@@ -3729,7 +3729,7 @@
         "標高": "292※(m)",
         "別称": "-",
         "所在地": "(兵庫県神戸市北区)",
-        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">サムイ</a> ×1</p>",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">さか</a> ×1</p>",
         "_markerType": "Icon",
         "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
         "_iconSize": [
@@ -3741,7 +3741,7 @@
           10
         ],
         "_MtSeachKey": "(百丈岩)- - 292※m | (兵庫県神戸市北区)",
-        "_RunnerSeachKey": "(百丈岩): サムイ"
+        "_RunnerSeachKey": "(百丈岩): さか"
       },
       "geometry": {
         "type": "Point",
@@ -4209,7 +4209,7 @@
         "標高": "315(m)",
         "別称": "佐伯山(さえきやま)",
         "所在地": "大阪府池田市",
-        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">サムイ</a> ×1</p>",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">さか</a> ×1</p>",
         "_markerType": "Icon",
         "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
         "_iconSize": [
@@ -4221,7 +4221,7 @@
           10
         ],
         "_MtSeachKey": "五月山さつきやま 佐伯山(さえきやま) 315m | 大阪府池田市",
-        "_RunnerSeachKey": "五月山: サムイ"
+        "_RunnerSeachKey": "五月山: さか"
       },
       "geometry": {
         "type": "Point",
@@ -4749,7 +4749,7 @@
         "標高": "219※(m)",
         "別称": "-",
         "所在地": "(大阪府池田市)",
-        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/8728/87287099.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?TKNMCYDR\" target=\"_blank\" class=\"runner_link\">TKNMCYDR</a> ×1<br>02. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">サムイ</a> ×2</p>",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/8728/87287099.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?TKNMCYDR\" target=\"_blank\" class=\"runner_link\">TKNMCYDR</a> ×1<br>02. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">さか</a> ×2</p>",
         "_markerType": "Icon",
         "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
         "_iconSize": [
@@ -4761,7 +4761,7 @@
           10
         ],
         "_MtSeachKey": "(節句山)- - 219※m | (大阪府池田市)",
-        "_RunnerSeachKey": "(節句山): TKNMCYDR, サムイ"
+        "_RunnerSeachKey": "(節句山): TKNMCYDR, さか"
       },
       "geometry": {
         "type": "Point",
@@ -6369,7 +6369,7 @@
         "標高": "270(m)",
         "別称": "-",
         "所在地": "京都府乙訓郡大山崎町",
-        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">サムイ</a> ×1</p>",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">さか</a> ×1</p>",
         "_markerType": "Icon",
         "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
         "_iconSize": [
@@ -6381,7 +6381,7 @@
           10
         ],
         "_MtSeachKey": "天王山てんのうざん - 270m | 京都府乙訓郡大山崎町",
-        "_RunnerSeachKey": "天王山: サムイ"
+        "_RunnerSeachKey": "天王山: さか"
       },
       "geometry": {
         "type": "Point",
@@ -13509,7 +13509,7 @@
         "標高": "717(m)",
         "別称": "-",
         "所在地": "兵庫県神戸市灘区",
-        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">サムイ</a> ×1</p>",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">さか</a> ×1</p>",
         "_markerType": "Icon",
         "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
         "_iconSize": [
@@ -13521,7 +13521,7 @@
           10
         ],
         "_MtSeachKey": "摩耶別山まやべっさん - 717m | 兵庫県神戸市灘区",
-        "_RunnerSeachKey": "摩耶別山: サムイ"
+        "_RunnerSeachKey": "摩耶別山: さか"
       },
       "geometry": {
         "type": "Point",
@@ -16689,7 +16689,7 @@
         "標高": "136※(m)",
         "別称": "-",
         "所在地": "(滋賀県彦根市)",
-        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">サムイ</a> ×1</p>",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/6737/67379054.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E3%82%B5%E3%83%A0%E3%82%A4\" target=\"_blank\" class=\"runner_link\">さか</a> ×1</p>",
         "_markerType": "Icon",
         "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
         "_iconSize": [
@@ -16701,7 +16701,7 @@
           10
         ],
         "_MtSeachKey": "(彦根山)- - 136※m | (滋賀県彦根市)",
-        "_RunnerSeachKey": "(彦根山): サムイ"
+        "_RunnerSeachKey": "(彦根山): さか"
       },
       "geometry": {
         "type": "Point",
