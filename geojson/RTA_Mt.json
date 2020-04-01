@@ -13599,7 +13599,7 @@
         "標高": "2814(m)",
         "別称": "割菱ノ頭(わりびしのあたま)・割菱岳",
         "所在地": "富山県黒部市 - 長野県大町市",
-        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/8825/88257976.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E8%95%97%E3%82%A2%E3%83%A9%E3%83%96\" target=\"_blank\" class=\"runner_link\">蕗アラブ</a> ×1<br>02. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/418/4181782.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?segma\" target=\"_blank\" class=\"runner_link\">segma</a> ×1</p>",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/8825/88257976.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E8%95%97%E3%82%A2%E3%83%A9%E3%83%96\" target=\"_blank\" class=\"runner_link\">蕗アラブ</a> ×1<br>02. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/418/4181782.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?segma\" target=\"_blank\" class=\"runner_link\">segma</a> ×1<br>03. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?nanary\" target=\"_blank\" class=\"runner_link\">nanary</a> ×1</p>",
         "_markerType": "Icon",
         "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
         "_iconSize": [
@@ -13611,7 +13611,7 @@
           10
         ],
         "_MtSeachKey": "五龍岳ごりゅうだけ 割菱ノ頭(わりびしのあたま)・割菱岳 2814m | 富山県黒部市 - 長野県大町市",
-        "_RunnerSeachKey": "五龍岳: 蕗アラブ, segma"
+        "_RunnerSeachKey": "五龍岳: 蕗アラブ, segma, nanary"
       },
       "geometry": {
         "type": "Point",
@@ -19228,6 +19228,186 @@
         "coordinates": [
           134.09822,
           34.372093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "山名": "地蔵の頭",
+        "読み": "じぞうのあたま",
+        "標高": "1673(m)",
+        "別称": "-",
+        "所在地": "長野県北安曇郡白馬村",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?nanary\" target=\"_blank\" class=\"runner_link\">nanary</a> ×1</p>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_MtSeachKey": "地蔵の頭じぞうのあたま - 1673m | 長野県北安曇郡白馬村",
+        "_RunnerSeachKey": "地蔵の頭: nanary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.810504,
+          36.659834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "山名": "小遠見山",
+        "読み": "ことおみやま",
+        "標高": "2007(m)",
+        "別称": "-",
+        "所在地": "長野県大町市 - 北安曇郡白馬村",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?nanary\" target=\"_blank\" class=\"runner_link\">nanary</a> ×1</p>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_MtSeachKey": "小遠見山ことおみやま - 2007m | 長野県大町市 - 北安曇郡白馬村",
+        "_RunnerSeachKey": "小遠見山: nanary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.798198,
+          36.651881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "山名": "中遠見山",
+        "読み": "なかとおみやま",
+        "標高": "2037(m)",
+        "別称": "-",
+        "所在地": "長野県大町市 - 北安曇郡白馬村",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?nanary\" target=\"_blank\" class=\"runner_link\">nanary</a> ×1</p>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_MtSeachKey": "中遠見山なかとおみやま - 2037m | 長野県大町市 - 北安曇郡白馬村",
+        "_RunnerSeachKey": "中遠見山: nanary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.791396,
+          36.651985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "山名": "大遠見山",
+        "読み": "おおとおみやま",
+        "標高": "2106(m)",
+        "別称": "-",
+        "所在地": "長野県大町市 - 北安曇郡白馬村",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?nanary\" target=\"_blank\" class=\"runner_link\">nanary</a> ×1</p>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_MtSeachKey": "大遠見山おおとおみやま - 2106m | 長野県大町市 - 北安曇郡白馬村",
+        "_RunnerSeachKey": "大遠見山: nanary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.780925,
+          36.655729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "山名": "西遠見山",
+        "読み": "にしとおみやま",
+        "標高": "2268(m)",
+        "別称": "-",
+        "所在地": "長野県大町市 - 北安曇郡白馬村",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?nanary\" target=\"_blank\" class=\"runner_link\">nanary</a> ×1</p>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_MtSeachKey": "西遠見山にしとおみやま - 2268m | 長野県大町市 - 北安曇郡白馬村",
+        "_RunnerSeachKey": "西遠見山: nanary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.767911,
+          36.658896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "山名": "白岳",
+        "読み": "しらたけ",
+        "標高": "2541(m)",
+        "別称": "(しろだけ)",
+        "所在地": "富山県黒部市 - 長野県大町市・北安曇郡白馬村",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?nanary\" target=\"_blank\" class=\"runner_link\">nanary</a> ×1</p>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_MtSeachKey": "白岳しらたけ (しろだけ) 2541m | 富山県黒部市 - 長野県大町市・北安曇郡白馬村",
+        "_RunnerSeachKey": "白岳: nanary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.760969,
+          36.664619
         ]
       }
     }
