@@ -19177,7 +19177,7 @@
         "山名": "大朝日岳",
         "読み": "おおあさひだけ",
         "標高": "1871(m)",
-        "別称": "朝日岳&br;剣頭山(けんとうさん)",
+        "別称": "朝日岳・剣頭山(けんとうさん)",
         "所在地": "山形県西置賜郡小国町 - 西村山郡朝日町・西川町",
         "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank_s.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?sa2ba\" target=\"_blank\" class=\"runner_link\">sa2ba</a> ×1</p>",
         "_markerType": "Icon",
@@ -19190,7 +19190,7 @@
           10,
           10
         ],
-        "_MtSeachKey": "大朝日岳おおあさひだけ 朝日岳&br;剣頭山(けんとうさん) 1871m | 山形県西置賜郡小国町 - 西村山郡朝日町・西川町",
+        "_MtSeachKey": "大朝日岳おおあさひだけ 朝日岳・剣頭山(けんとうさん) 1871m | 山形県西置賜郡小国町 - 西村山郡朝日町・西川町",
         "_RunnerSeachKey": "大朝日岳: sa2ba"
       },
       "geometry": {
@@ -19408,6 +19408,36 @@
         "coordinates": [
           137.760969,
           36.664619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "山名": "宝満山",
+        "読み": "ほうまんざん",
+        "標高": "829(m)",
+        "別称": "法満山・高山(たかやま)・御笠山(みかさやま)・竈門山(かまどやま)",
+        "所在地": "福岡県筑紫野市・太宰府市 - 糟屋郡宇美町",
+        "走者": "<p class=\"runner\">01. <img src=\"https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/s/183/1834045.jpg\" alt=\"\" class=\"runner_icon\"><a href=\"https://rta_lodge.wicurio.com/index.php?%E5%92%8C%E7%94%B0%E3%81%8B%E3%81%A4\" target=\"_blank\" class=\"runner_link\">和田かつ</a> ×1</p>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://real-tozan-attack.github.io/images/RTAMap_icon.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_MtSeachKey": "宝満山ほうまんざん 法満山・高山(たかやま)・御笠山(みかさやま)・竈門山(かまどやま) 829m | 福岡県筑紫野市・太宰府市 - 糟屋郡宇美町",
+        "_RunnerSeachKey": "宝満山: 和田かつ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.569044,
+          33.539718
         ]
       }
     }
