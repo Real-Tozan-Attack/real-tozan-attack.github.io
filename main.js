@@ -110,7 +110,7 @@ var RTA_ReachedMtlist_marker = L.geoJson(RTA_ReachedMtlist_Deta, {
 
 //攻略済みの場所(外伝).geojson
 var xhr2 = new XMLHttpRequest();
-xhr2.open('GET', 'https://real-tozan-attack.github.io/geojson/RTA_Gaiden.json', false);
+xhr2.open('GET', 'https://real-tozan-attack.github.io/RTA_Gaiden.json', false);
 xhr2.send(null);
 var RTA_ReachedGaidenlist_Deta = JSON.parse(xhr2.responseText);
 var RTA_ReachedGaidenlist_marker = L.geoJson(RTA_ReachedGaidenlist_Deta, {
