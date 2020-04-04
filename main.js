@@ -74,7 +74,7 @@ var openstreet = L.tileLayer(
 
 //攻略済みの山頂.geojson
 var xhr1 = new XMLHttpRequest();
-xhr1.open('GET', 'https://real-tozan-attack.github.io/geojson/RTA_Mt.json', false);
+xhr1.open('GET', 'https://real-tozan-attack.github.io/RTA_Mt.json', false);
 xhr1.send(null);
 var RTA_ReachedMtlist_Deta = JSON.parse(xhr1.responseText);
 var RTA_ReachedMtlist_marker = L.geoJson(RTA_ReachedMtlist_Deta, {
