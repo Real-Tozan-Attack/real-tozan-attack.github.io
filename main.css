@@ -11,7 +11,12 @@
    display: block;
    position: relative;
 }
-
+ .sp#maploading{
+   height: 600px;
+   width: 85%;
+   display: block;
+   position: relative;
+}
  .leaflet-container {
    background: transparent;
 }
