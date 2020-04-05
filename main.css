@@ -4,6 +4,7 @@
    display: block;
    position:absolute;
    z-index:10;
+   background-color:#D6E9CA;
 }
  #maploading{
    height: 600px;
