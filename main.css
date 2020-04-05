@@ -4,7 +4,7 @@
    display: block;
    position:absolute;
    background-color:#D6E9CA;
-   border: solid 2px #97b38f;
+   border: dotted 2px #97b38f;
 }
  #maploading{
    height: 600px;
