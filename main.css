@@ -36,8 +36,8 @@
    }
 
  .leaflet-tooltip-top{
-    margin-top:-10px;
-    width: max-content;
+    margin-top:-15px;
+    width: auto;
     display: inline-block;
 }
 
