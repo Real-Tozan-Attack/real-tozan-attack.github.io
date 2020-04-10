@@ -38,6 +38,7 @@
  .leaflet-tooltip-top{
     margin-top:-10px;
     width: max-content;
+    display: inline-block;
 }
 
  .RTA_ReachedMtlist-tooltip{
