@@ -1,2 +1,2 @@
-minApprovals:
-  COLLABORATOR: 0
+minApprovals: COLLABORATOR: 0
+updateBranch: true
