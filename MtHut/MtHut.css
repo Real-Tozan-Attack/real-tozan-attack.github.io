@@ -65,7 +65,7 @@ a.leaflet-control-zoom-in, a.leaflet-control-zoom-out, .leaflet-right .leaflet-c
    color: #333;
 }
 
-#body .leaflet-control-geocoder{
+#body .leaflet-control-geocoder-icon{
       min-width: 30px;
       min-height: 30px;
       border: 2px solid rgba(0,0,0,0.2);
@@ -97,12 +97,12 @@ a.leaflet-control-zoom-in, a.leaflet-control-zoom-out, .leaflet-right .leaflet-c
    background-position: 1px 1px;
    width: 32px;
    height: 32px;
-   float:left;
+   float:none;
 }
 
 input#searchtext3.search-input{
    background: #fff;
-   float: right;
+   float: none;
    border: 0px solid #666;
    padding-top: 0px;
    padding-bottom: 0px;
