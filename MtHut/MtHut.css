@@ -65,6 +65,24 @@ a.leaflet-control-zoom-in, a.leaflet-control-zoom-out, .leaflet-right .leaflet-c
    color: #333;
 }
 
+.leaflet-touch .leaflet-control-geocoder-icon{
+  width: 30px;
+  height: 30px;
+}
+
+.leaflet-control-geocoder-icon{
+    border-radius: 4px;
+    width: 26px;
+    height: 26px;
+    border: none;
+    background-color: white;
+    background-image: url(images/geocoder.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+
+
 .leaflet-control-search.leaflet-control{
    background: #d6e9ca;
    color: #000;
@@ -80,11 +98,12 @@ a.leaflet-control-zoom-in, a.leaflet-control-zoom-out, .leaflet-right .leaflet-c
    background-position: 1px 1px;
    width: 32px;
    height: 32px;
+   float:none;
 }
 
 input#searchtext3.search-input{
    background: #fff;
-   float: right;
+   float: none;
    border: 0px solid #666;
    padding-top: 0px;
    padding-bottom: 0px;
