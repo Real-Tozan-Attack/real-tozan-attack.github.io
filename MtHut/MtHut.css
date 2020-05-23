@@ -84,6 +84,10 @@ a.leaflet-control-zoom-in, a.leaflet-control-zoom-out, .leaflet-right .leaflet-c
       z-index: 800;
       margin:0px;
 }
+.leaflet-control-geocoder-form input{
+background-color:#FFF;
+
+};
 
 
 .leaflet-control-search.leaflet-control{
