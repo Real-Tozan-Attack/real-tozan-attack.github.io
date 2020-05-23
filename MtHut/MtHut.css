@@ -65,21 +65,20 @@ a.leaflet-control-zoom-in, a.leaflet-control-zoom-out, .leaflet-right .leaflet-c
    color: #333;
 }
 
-.leaflet-touch .leaflet-control-geocoder-icon{
-  width: 30px;
-  height: 30px;
-}
-
-#body button .leaflet-control-geocoder-icon{
-    border-radius: 4px;
-    width: 26px;
-    height: 26px;
-    border: none;
-    background-color: white;
-    background-image: url(images/geocoder.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    cursor: pointer;
+#body .leaflet-control-geocoder{
+      min-width: 30px;
+      min-height: 30px;
+      border: 2px solid rgba(0,0,0,0.2);
+      background-clip: padding-box;
+      box-shadow: none;
+      margin-left: 10px;
+      margin-top: 10px;
+      background: #d6e9ca;
+      border-radius: 4px;
+      cursor: auto;
+      float: left;
+      clear: both;
+      z-index: 800;
 }
 
 
