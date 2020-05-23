@@ -163,13 +163,12 @@ a.history-back-button,a.history-forward-button{
 
 /*Theme the Tabulator element*/
 #MtHut_table{
-    background-color:#ccc;
-
+    background-color:#F0FFE6;
 }
 
 /*Theme the header*/
 #MtHut_table .tabulator-header {
-    background-color:#333;
+    background-color:#81A379;
     color:#fff;
 }
 
@@ -188,7 +187,10 @@ a.history-back-button,a.history-forward-button{
 }
 
 /*Color even rows*/
-    #MtHut_table .tabulator-tableHolder .tabulator-table .tabulator-row:nth-child(even) {
+#MtHut_table .tabulator-tableHolder .tabulator-table .tabulator-row:nth-child(even) {
     background-color:#D6E9CA;
     color:#333631;
+}
+#MtHut_table .tabulator-header-filter{
+  color:#333631;
 }
