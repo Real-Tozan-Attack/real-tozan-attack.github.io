@@ -102,7 +102,7 @@ a.leaflet-control-zoom-in, a.leaflet-control-zoom-out, .leaflet-right .leaflet-c
 
 input#searchtext3.search-input{
    background: #fff;
-   float: none;
+   float: right;
    border: 0px solid #666;
    padding-top: 0px;
    padding-bottom: 0px;
