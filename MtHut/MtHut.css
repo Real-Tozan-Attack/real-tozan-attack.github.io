@@ -83,12 +83,13 @@ a.leaflet-control-zoom-in, a.leaflet-control-zoom-out, .leaflet-right .leaflet-c
 }
 
 input#searchtext3.search-input{
-   background: #d6e9ca;
+   background: #fff;
    float: right;
    border: 0px solid #666;
    padding-top: 0px;
    padding-bottom: 0px;
-   padding-left: 0.125em;
+   padding-left: 5px;
+   padding-right: 200px;
 }
 .leaflet-control-search .search-tooltip{
    max-height: 300px;
