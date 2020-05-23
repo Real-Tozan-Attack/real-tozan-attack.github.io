@@ -70,7 +70,7 @@ a.leaflet-control-zoom-in, a.leaflet-control-zoom-out, .leaflet-right .leaflet-c
   height: 30px;
 }
 
-.leaflet-control-geocoder-icon{
+#body button .leaflet-control-geocoder-icon{
     border-radius: 4px;
     width: 26px;
     height: 26px;
