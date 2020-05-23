@@ -68,12 +68,15 @@ a.leaflet-control-zoom-in, a.leaflet-control-zoom-out, .leaflet-right .leaflet-c
 #body .leaflet-control-geocoder-icon{
       min-width: 30px;
       min-height: 30px;
-      border: 2px solid rgba(0,0,0,0.2);
       background-clip: padding-box;
       box-shadow: none;
       margin-left: 10px;
       margin-top: 10px;
-      background: #d6e9ca;
+      background-clip:padding-box;
+      background-color:#d6e9ca;
+      background-image:url(https://unpkg.com/leaflet-control-geocoder@1.13.0/dist/images/geocoder.png);
+      background-position-x:50%;
+      background-position-y:50%;
       border-radius: 4px;
       cursor: auto;
       float: left;
