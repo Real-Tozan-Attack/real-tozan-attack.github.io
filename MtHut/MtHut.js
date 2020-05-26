@@ -152,7 +152,7 @@ for(var i = 0; i < target.length; i++) {
 }
 
 
-var basemaps = [gsi,gsipale,gsiphoto,opentopo,openstreet];
+var basemaps = [gsipale,gsi,gsiphoto,opentopo,openstreet];
 map.addControl(L.control.basemaps({
     basemaps: basemaps,
     position:"topright",
