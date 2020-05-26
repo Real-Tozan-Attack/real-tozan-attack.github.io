@@ -203,7 +203,7 @@ var table = new Tabulator("#MtHut_table", {
 {title:"山小屋", field:"山小屋", formatter:"html",width:210,headerFilter:"select"},
 {title:"支援内容", field:"支援内容", formatter:"html",headerFilter:"select", headerFilterParams:{values:{"[ヤマップ]#山小屋支援プロジェクト":"[ヤマップ]#山小屋支援プロジェクト", "[山と渓谷社]山小屋エイド基金":"[山と渓谷社]山小屋エイド基金", "[山と渓谷社]山小屋エイド基金※賛同のみ":"[山と渓谷社]山小屋エイド基金※賛同のみ","[独自]":"[独自]","[独自]宿泊前売り券販売":"[独自]宿泊前売り券販売","[独自]宿泊前売り券(ふるさと納税)":"[独自]宿泊前売り券(ふるさと納税)","[独自]グッズ販売":"[独自]グッズ販売","":""}},width:350},
 {title:"所在地", field:"座標", formatter:"html"},
-{title:"ソート", field:"ソート",visible:false},
+{title:"ソート", field:"ソート",sorter:"number",visible:false},
 ],
   initialSort:[
           {column:"ソート", dir:"desc"},
