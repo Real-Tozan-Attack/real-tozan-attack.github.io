@@ -111,7 +111,7 @@ var RTA_ReachedMtlist_marker = L.geoJson(RTA_ReachedMtlist_Deta, {
 
 
 var markers1 = L.markerClusterGroup({
- disableClusteringAtZoom:12,
+ disableClusteringAtZoom:15,
  maxClusterRadius: 200,
     });
 var RTA_ReachedMtlist_Layer = markers1.addLayer(RTA_ReachedMtlist_marker);
