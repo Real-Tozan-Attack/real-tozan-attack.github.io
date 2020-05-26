@@ -206,6 +206,6 @@ var table = new Tabulator("#MtHut_table", {
 {title:"ソート", field:"ソート",sorter:"number",visible:false},
 ],
   initialSort:[
-          {column:"ソート", dir:"desc"},
+          {column:"ソート", dir:"desc",sorter:"number"},
           ],
 });
