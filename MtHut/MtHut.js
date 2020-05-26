@@ -117,7 +117,7 @@ var markers1 = L.markerClusterGroup({
 var RTA_ReachedMtlist_Layer = markers1.addLayer(RTA_ReachedMtlist_marker);
 
 var map = L.map('mapdiv', {
- center: [36.104700,140.087013], layers: [gsi, RTA_ReachedMtlist_Layer]
+ center: [36.104700,140.087013], layers: [gsipale, RTA_ReachedMtlist_Layer]
 });
 
 L.control.scale({imperial: false}).addTo(map);
