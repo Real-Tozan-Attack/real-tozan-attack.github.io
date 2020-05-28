@@ -204,21 +204,6 @@ map.addControl(L.control.basemaps({
     tileZ: 5   // tile zoom level
 }));
 
-var osm2 = new L.TileLayer(
-  'https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png',
-  {
-    attribution: "<a href='http://maps.gsi.go.jp/development/ichiran.html' target='_blank'>地理院タイル（淡色地図）</a>", 
-    maxNativeZoom: 18,
-    maxZoom: 18,
-  });
-var miniMap = new L.Control.MiniMap(osm2,
-    {toggleDisplay: true,
-     width: 180,
-     height: 150,
-     minimized: true,
-     strings: {hideText: 'ミニマップを閉じる', showText: 'ミニマップを開く'},
-    }).addTo(map);
-
 new L.HistoryControl({
     position: 'bottomleft',
     maxMovesToSave: 0,
