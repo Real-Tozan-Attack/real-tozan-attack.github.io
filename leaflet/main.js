@@ -74,13 +74,10 @@ var openstreet = L.tileLayer(
 
 //攻略済みの山頂.geojson
 var xhr1 = new XMLHttpRequest();
-xhr1.open('GET', 'https://real-tozan-attack.github.io/RTA.json', false);
+xhr1.open('GET', 'https://real-tozan-attack.github.io/RTA_Mt.json', false);
 xhr1.send(null);
 var RTA_ReachedMtlist_Deta = JSON.parse(xhr1.responseText);
 var RTA_ReachedMtlist_marker = L.geoJson(RTA_ReachedMtlist_Deta, {
-  filter: function RTAtypefilter(feature) {
-  if (feature.properties.RTAtype === "Honden") return true
-},
   pointToLayer: function (feature, latlng) {
     var s = geojson_style(feature.properties);
     if(feature.properties['_markerType']=='Icon'){
@@ -112,11 +109,11 @@ var RTA_ReachedMtlist_marker = L.geoJson(RTA_ReachedMtlist_Deta, {
 
 
 //攻略済みの場所(外伝).geojson
-var RTA_ReachedGaidenlist_Deta = JSON.parse(xhr1.responseText);
+var xhr2 = new XMLHttpRequest();
+xhr2.open('GET', 'https://real-tozan-attack.github.io/RTA_Gaiden.json', false);	
+xhr2.send(null);	
+var RTA_ReachedGaidenlist_Deta = JSON.parse(xhr2.responseText);
 var RTA_ReachedGaidenlist_marker = L.geoJson(RTA_ReachedGaidenlist_Deta, {
-  filter: function RTAtypefilter(feature) {
-  if (feature.properties.RTAtype === "Gaiden") return true
-},
   pointToLayer: function (feature, latlng) {
     var s = geojson_style(feature.properties);
     if(feature.properties['_markerType']=='Icon'){
