@@ -95,6 +95,7 @@ input#searchtext2.search-input{
 
 p.popup-content,p.runner{
     margin:0px;
+    white-space: nowrap;
 }
 img.runner_icon{
 	vertical-align: middle;
