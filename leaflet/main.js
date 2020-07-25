@@ -147,13 +147,13 @@ var RTA_ReachedGaidenlist_marker = L.geoJson(RTA_ReachedMtlist_Deta, {
 
 var markers1 = L.markerClusterGroup({
  disableClusteringAtZoom:13,
- maxClusterRadius: 50,
+ maxClusterRadius: 100,
     });
 var RTA_ReachedMtlist_Layer = markers1.addLayer(RTA_ReachedMtlist_marker);
 
 var markers2 = L.markerClusterGroup({
  disableClusteringAtZoom:13,
- maxClusterRadius: 50,
+ maxClusterRadius: 100,
     });
 var RTA_ReachedGaidenlist_Layer = markers2.addLayer(RTA_ReachedGaidenlist_marker);
 
