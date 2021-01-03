@@ -72,7 +72,7 @@ var openstreet = L.tileLayer(
     label: "OpenStreetMap"
   });
 
-//攻略済みの山頂.geojson
+//NHM.json(日本百名山)
 var xhr1 = new XMLHttpRequest();
 xhr1.open('GET', 'https://real-tozan-attack.github.io/NHM.json', false);
 xhr1.send(null);
