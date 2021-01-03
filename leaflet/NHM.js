@@ -171,3 +171,6 @@ new L.HistoryControl({
     backText: '',
     forwardText: '',
     }).addTo(map);
+
+var lastupdate = RTA_ReachedMtlist_Deta.lastupdate
+document.getElementById("lastupdate").innerText = lastupdate;
