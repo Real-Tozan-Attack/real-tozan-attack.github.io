@@ -102,7 +102,7 @@ pointToLayer: function (feature, latlng) {
     }
   },
   onEachFeature: function (feature, layer) {
-    layer.bindTooltip(tooltip_properties(feature.properties.番号) + "<br>" + tooltip_properties(feature.properties.山名) + "<br>" + tooltip_properties(feature.properties.走者),{permanent: true, direction: 'top', className: 'RTA_ReachedMtlist-tooltip'});
+    layer.bindTooltip(tooltip_properties(feature.properties.番号) + " | " + tooltip_properties(feature.properties.山名) + "<br>" + tooltip_properties(feature.properties.走者),{permanent: true, direction: 'top', className: 'RTA_ReachedMtlist-tooltip'});
     layer.bindPopup(popup_properties(feature.properties));
   }
 });
