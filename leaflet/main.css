@@ -21,6 +21,7 @@
    position:absolute;
    background-color:#D6E9CA;
    border: dotted 2px #97b38f;
+   margin:0 0 0 auto;
 }
  .leaflet-container {
    background: transparent;
