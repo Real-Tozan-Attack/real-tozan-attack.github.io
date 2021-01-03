@@ -78,10 +78,7 @@ xhr1.open('GET', 'https://real-tozan-attack.github.io/NHM.json', false);
 xhr1.send(null);
 var RTA_ReachedMtlist_Deta = JSON.parse(xhr1.responseText);
 var RTA_ReachedMtlist_marker = L.geoJson(RTA_ReachedMtlist_Deta, {
-  filter: function RTATypeFilter(feature){
-	  if(feature.properties._RTAType === "Honden") return true
-  },
-  pointToLayer: function (feature, latlng) {
+pointToLayer: function (feature, latlng) {
     var s = geojson_style(feature.properties);
     if(feature.properties['_markerType']=='Icon'){
       var myIcon = L.icon(s);
@@ -111,60 +108,20 @@ var RTA_ReachedMtlist_marker = L.geoJson(RTA_ReachedMtlist_Deta, {
 });
 
 
-//攻略済みの場所(外伝).geojson
-var RTA_ReachedGaidenlist_marker = L.geoJson(RTA_ReachedMtlist_Deta, {
-  filter: function RTATypeFilter(feature){
-	  if(feature.properties._RTAType === "Gaiden") return true
-  },
-  pointToLayer: function (feature, latlng) {
-    var s = geojson_style(feature.properties);
-    if(feature.properties['_markerType']=='Icon'){
-      var myIcon = L.icon(s);
-      return L.marker(latlng, {icon: myIcon});
-    }
-    if(feature.properties['_markerType']=='DivIcon'){
-      var myIcon = L.divIcon(s);
-      return L.marker(latlng, {icon: myIcon});
-    }
-    if(feature.properties['_markerType']=='Circle'){
-      return L.circle(latlng,feature.properties['_radius'],s);
-    }
-    if(feature.properties['_markerType']=='CircleMarker'){
-      return L.circleMarker(latlng,s);
-    }
-  },
-  style: function (feature) {
-    if(!feature.properties['_markerType']){
-      var s = geojson_style(feature.properties);
-      return s;
-    }
-  },
-  onEachFeature: function (feature, layer) {
-    layer.bindTooltip(tooltip_properties(feature.properties.地名) + "<br>" + tooltip_properties(feature.properties.走者),{permanent: true, direction: 'top', className: 'RTA_ReachedGaidenlist-tooltip'});
-    layer.bindPopup(popup_properties(feature.properties));
-  }
-});
-
 var markers1 = L.markerClusterGroup({
  disableClusteringAtZoom:13,
  maxClusterRadius: 100,
     });
 var RTA_ReachedMtlist_Layer = markers1.addLayer(RTA_ReachedMtlist_marker);
 
-var markers2 = L.markerClusterGroup({
- disableClusteringAtZoom:13,
- maxClusterRadius: 100,
-    });
-var RTA_ReachedGaidenlist_Layer = markers2.addLayer(RTA_ReachedGaidenlist_marker);
-
 var map = L.map('mapdiv', {
- center: [36.104700,140.087013], layers: [gsi, RTA_ReachedMtlist_Layer, RTA_ReachedGaidenlist_Layer]
+ center: [36.104700,140.087013], layers: [gsi, RTA_ReachedMtlist_Layer]
 });
 
 L.control.scale({imperial: false}).addTo(map);
 
 var baseLayers = {};
-var overlays = {"攻略済みの山頂 - RTAの山小屋": RTA_ReachedMtlist_Layer, "攻略済みの場所(外伝) - RTAの山小屋":RTA_ReachedGaidenlist_Layer};
+var overlays = {"日本百名山": RTA_ReachedMtlist_Layer};
 var layerscontrol = L.control.layers(baseLayers, overlays,{position:'topright',collapsed:false}).addTo(map);
 
 function change_legend() {
@@ -174,7 +131,7 @@ function change_legend() {
 };
 };
 
-var searchLayers = L.layerGroup([RTA_ReachedMtlist_Layer,RTA_ReachedGaidenlist_Layer]);
+var searchLayers = L.layerGroup([RTA_ReachedMtlist_Layer]);
 
 map.addControl( new L.Control.Search({layer: searchLayers,propertyName:'_MtSeachKey',initial:false,zoom:13,textErr:'……',textPlaceholder:'山岳'}));
 
