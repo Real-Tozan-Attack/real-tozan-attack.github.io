@@ -109,8 +109,8 @@ pointToLayer: function (feature, latlng) {
 
 
 var markers1 = L.markerClusterGroup({
- disableClusteringAtZoom:13,
- maxClusterRadius: 100,
+ disableClusteringAtZoom:10,
+ maxClusterRadius: 50,
     });
 var RTA_ReachedMtlist_Layer = markers1.addLayer(RTA_ReachedMtlist_marker);
 
